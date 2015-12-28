@@ -1,4 +1,4 @@
 # angularjs-cookies
 
 
-Usages of angular cookie and cookie based bookmark
+Usages of angularjs cookie for bookmark
